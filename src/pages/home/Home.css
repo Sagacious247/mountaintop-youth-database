@@ -1,0 +1,27 @@
+/* .slider-quotes {
+    width: 100%;
+    height: 20vh;
+    position: relative;
+    overflow: hidden;
+    background-color: transparent;
+  }
+  
+  .quote-slide {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transform: translateX(-50%);
+    transition: all 0.5s ease;
+  }
+
+  .quote-current {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  
+  .quote-current .content {
+    opacity: 1;
+  } */
